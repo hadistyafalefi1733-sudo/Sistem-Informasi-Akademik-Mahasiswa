@@ -48,7 +48,6 @@ Sistem-Informasi-Akademik-Mahasiswa
 ├── PANDUAN.md
 ├── Laporan_Akhir.pdf
 ├── Presentasi.pptx
-└── gambar/
 ```
 
 ---
