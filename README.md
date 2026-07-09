@@ -1,17 +1,87 @@
-PANDUAN MENGGUNAKAN PROGRAM
+# Sistem Informasi Akademik Mahasiswa
 
-Persyaratan Sebelum menjalankan program, pastikan komputer telah terinstal: Python versi 3.x Visual Studio Code atau IDLE Python (opsional)
+## Deskripsi
 
-Menjalankan Program Buka folder proyek. Jalankan file akademik.py. Program akan menampilkan menu utama. Contoh menjalankan melalui terminal: python akademik.py
+Sistem Informasi Akademik Mahasiswa merupakan aplikasi berbasis Python yang dikembangkan sebagai Tugas Besar Mata Kuliah Pemrograman Lanjut di Universitas Serambi Mekkah.
 
-Menu Program Program menyediakan beberapa menu sebagai berikut: Input Data Mahasiswa Input Nilai Mahasiswa Tampilkan Data Mahasiswa Ranking Mahasiswa Statistik Kelas Cetak Rapor Rekap Kelas Cari Mahasiswa Edit Data Mahasiswa Hapus Data Mahasiswa Keluar
+Aplikasi ini digunakan untuk membantu pengelolaan data akademik mahasiswa, mulai dari input data mahasiswa, input nilai mata kuliah, perhitungan IPK berbobot SKS, perangkingan mahasiswa, statistik kelas, hingga pencetakan rapor.
 
-Cara Menggunakan Program Langkah 1: Pilih menu 1 untuk memasukkan data mahasiswa. Masukkan: NIM Nama Program Studi Angkatan
+---
 
-Langkah 2
-Pilih menu 2 untuk memasukkan nilai mahasiswa. Masukkan: Nama mata kuliah Nilai SKS Minimal lima mata kuliah.
+## Fitur Program
 
-Langkah 3
+- Input data mahasiswa
+- Input nilai mata kuliah
+- Konversi nilai huruf
+- Perhitungan rata-rata nilai
+- Perhitungan IPK berbobot SKS
+- Ranking mahasiswa
+- Statistik kelas
+- Cetak rapor
+- Rekap kelas
+- Pencarian data mahasiswa
+- Edit data mahasiswa
+- Hapus data mahasiswa
+- Validasi input
+
+---
+
+## Teknologi yang Digunakan
+
+- Python 3
+- Modul `statistics`
+
+---
+
+## Cara Menjalankan Program
+
+1. Pastikan Python 3 sudah terinstal.
+2. Download atau clone repository ini.
+3. Buka terminal atau Command Prompt.
+4. Jalankan program dengan perintah:
+
+```bash
+python akademik.py
+```
+
+5. Pilih menu yang tersedia sesuai kebutuhan.
+
+---
+
+## Struktur Repository
+
+```
+Sistem-Informasi-Akademik-Mahasiswa
+│
+├── akademik.py
+├── README.md
+├── REFERENSI.md
+├── PANDUAN.md
+├── Laporan_Akhir.pdf
+└── Presentasi.pdf
+```
+
+---
+
+## Anggota Kelompok
+
+- Hadistya Falefi (2414050046)
+- Haykal Ferdian (2414050186)
+- Muhammad Haikal (2414050044)
+- Maya Elvisa Anas (2414050075)
+- Meylisa Takari (2414050078)
+
+---
+
+## Mata Kuliah
+
+Pemrograman Lanjut
+
+Program Studi Teknik Komputer
+
+Universitas Serambi Mekkah
+
+Tahun 2026Langkah 3
 Pilih menu 3 untuk melihat seluruh data mahasiswa yang telah disimpan.
 
 Langkah 4
