@@ -68,7 +68,6 @@ Pilih menu 6 untuk mencetak rapor mahasiswa.
 Masukkan NIM mahasiswa yang ingin ditampilkan.
 
 Langkah 7
-
 Gunakan menu 7, 8, 9, dan 10 sesuai kebutuhan untuk melihat rekap kelas, mencari, mengubah, atau menghapus data mahasiswa.
 
 Langkah 8
