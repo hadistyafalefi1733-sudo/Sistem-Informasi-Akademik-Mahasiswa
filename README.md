@@ -43,9 +43,9 @@ Aplikasi ini bertujuan membantu pengelolaan data akademik mahasiswa, mulai dari 
 Sistem-Informasi-Akademik-Mahasiswa
 │
 ├── akademik.py
-├── Laporan akhir.pdf
+├── LAPORAN AKHIR.pdf
 ├── PANDUAN.md
-├── Presentasi.pdf
+├── PRESENTASI.pdf
 ├── README.md
 ├── REFERENSI.md
 ```
